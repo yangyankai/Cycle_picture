@@ -1,0 +1,12 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+    <!-- 主题图片 -->
+    <com.example.cycle_picture.SlideShowView
+        android:id="@+id/slideshowView"
+        android:layout_width="fill_parent"
+        android:layout_height="280dp"
+        android:layout_centerHorizontal="true" />
+
+</LinearLayout>
